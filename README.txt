@@ -106,7 +106,7 @@ Developers, follow the instructions below to build the DRLB server:
 $ cd $HOME
 $ mkdir -pv git
 $ cd $HOME/git
-$ git https://github.com/datareel/load-balancer
+$ git clone https://github.com/datareel/load-balancer
 $ source $HOME/git/load-balancer/env/gnu_env.sh
 $ cd $HOME/git/load-balancer/drlb_server
 $ make
