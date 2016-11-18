@@ -134,7 +134,7 @@ System administrators, follow the instructions below to build an RPM
 for distribution:
 
 $ cd $HOME; mkdir -pv git; cd $HOME/git
-$ https://github.com/datareel/load-balancer
+$ git clone https://github.com/datareel/load-balancer
 $ cd ${HOME}/git/load-balancer/rpm_builder
 
 RHEL7/CENTOS7:
